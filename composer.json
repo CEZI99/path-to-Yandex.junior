@@ -3,10 +3,7 @@
         {"type": "composer", "url": "https://test_repman.repo.repman.io"}
     ],
     
-    "name": "path",
-    "type": "project",
-    "require": {
-        "php": "^7.2.5"
-    }
+    "name": "path-to-junior",
+    "require": {}
 
 }
